@@ -117,9 +117,9 @@
     @apply flex flex-col justify-between gap-8;
   }
 
-  /* .total-balance {
+  .total-balance {
     @apply flex w-full items-center gap-4 rounded-xl border border-gray-200 p-4 shadow-chart sm:gap-6 sm:p-6;
-  } */
+  }
 
   .total-balance-chart {
     @apply flex size-full max-w-[100px] items-center sm:max-w-[120px];
@@ -192,9 +192,9 @@
   }
 
   /* My Banks */
-  /* .transactions {
+  .transactions {
     @apply flex max-h-screen w-full flex-col gap-8 overflow-y-scroll bg-gray-25 p-8 xl:py-12;
-  } */
+  }
 
   .transactions-header {
     @apply flex w-full flex-col items-start justify-between gap-8 md:flex-row;
